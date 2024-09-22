@@ -40,7 +40,7 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedkhammassi&color=blue&style=flat)
 
-<img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
+
 
 <img src="https://raw.githubusercontent.com/ahmedkhammassi/ahmedkhammassi/output/snake.svg" alt="Snake animation" />
 
