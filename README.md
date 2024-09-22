@@ -32,9 +32,6 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 ---
 
-### 💼 Current Projects:
-- [Project Angular-SpringBoot](https://github.com/ahmedkhammassi/project-angular-springboot)
-- [Symfony App](https://github.com/ahmedkhammassi/symfony-app)
 
 ---
 
