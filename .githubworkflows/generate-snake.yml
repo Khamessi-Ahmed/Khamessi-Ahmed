@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule: # Run at 05:00 UTC every day
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # Generate the snake.svg file
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: <YOUR_GITHUB_USERNAME>
+          outputs: dist/snake.svg
+
+      # Push the file to the output branch
+      - name: Push Snake to the output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
