@@ -35,4 +35,10 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 ---
 
+![GitHub Contribution Snake](https://github.com/<ahmedkhammassi>/<ahmedkhammassi>/blob/output/snake.svg)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedkhammassi&color=blue&style=flat)
+
+
+
