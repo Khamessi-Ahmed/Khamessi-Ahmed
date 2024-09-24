@@ -19,12 +19,7 @@
 
 ---
 
-### 📊 GitHub Stats:
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedKhammassi&layout=compact&theme=radical)
-
----
 
 ### 🌟 Fun Fact:  
 Did you know?  
