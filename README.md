@@ -42,6 +42,5 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 
 
-<img src="https://raw.githubusercontent.com/ahmedkhammassi/ahmedkhammassi/output/snake.svg" alt="Snake animation" />
 
 
