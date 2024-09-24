@@ -29,11 +29,7 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 
 ---
-## 🏆 My github rank in Tunisia?
-<h1>
-  
-:zap: [![committers.top badge](https://user-badge.committers.top/tunisia/ahmedkhammassi.svg)](https://user-badge.committers.top/tunisia/ahmedkhammassi)
-</h1>
+
 
 <img src="https://raw.githubusercontent.com/ahmedkhammassi/ahmedkhammassi/output/snake.svg" alt="Snake animation" />
 
