@@ -1,4 +1,4 @@
-###<h1> Hi there 👋, I'm Ahmed! and I'm a FullStack Developper, from Tunisia 🇹🇳♥️</h1>
+<h1> Hi there 👋, I'm Ahmed! and I'm a FullStack Developer, from Tunisia 🇹🇳♥️</h1>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
@@ -19,7 +19,15 @@
 
 ---
 
+### 📊 Languages Usage:
 
+![Java](https://img.shields.io/badge/Java-30%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-25%25-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-20%25-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-15%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-10%25-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+---
 
 ### 🌟 Fun Fact:  
 Did you know?  
@@ -27,16 +35,6 @@ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 
 ---
 
-
----
-
-
 <img src="https://raw.githubusercontent.com/ahmedkhammassi/ahmedkhammassi/output/snake.svg" alt="Snake animation" />
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedkhammassi&color=blue&style=flat)
-
-
-
-
-
