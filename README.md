@@ -20,7 +20,6 @@
 
 ###
 
-[![committers.top badge](https://user-badge.committers.top/tunisia/Khamessi-Ahmed.svg)](https://user-badge.committers.top/tunisia/Khamessi-Ahmed)
 
 
 ###
