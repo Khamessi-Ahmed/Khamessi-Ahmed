@@ -19,9 +19,9 @@
 
 ---
 ## 🏆 My github rank in Tunisia?
-<h1>
+
 :zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Khamessi-Ahmed.svg)](https://user-badge.committers.top/tunisia/Khamessi-Ahmed)
-</h1>
+
 ###
 
 [![committers.top badge](https://user-badge.committers.top/tunisia/Khamessi-Ahmed.svg)](https://user-badge.committers.top/tunisia/Khamessi-Ahmed)
