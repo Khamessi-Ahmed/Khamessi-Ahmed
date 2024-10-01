@@ -17,14 +17,6 @@
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
----
-## 🏆 My github rank in Tunisia?
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Tunisia') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256);
-:zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Khamessi-Ahmed.svg)](https://user-badge.committers.top/tunisia/Khamessi-Ahmed)
 
 ###
 
