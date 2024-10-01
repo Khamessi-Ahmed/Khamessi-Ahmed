@@ -19,7 +19,11 @@
 
 ---
 ## 🏆 My github rank in Tunisia?
-
+githubUsers.sort(_.followers)
+           .filter(_.location == 'Tunisia') 
+           .take(1000)
+           .sort(_.contributions)
+           .take(256);
 :zap: [![committers.top badge](https://user-badge.committers.top/tunisia/Khamessi-Ahmed.svg)](https://user-badge.committers.top/tunisia/Khamessi-Ahmed)
 
 ###
